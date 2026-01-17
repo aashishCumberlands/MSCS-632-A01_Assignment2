@@ -12,7 +12,6 @@ Comparative study of syntax, semantics, and memory management across Python, Jav
 │   └── section2_type_systems/       # Type systems and scopes
 ├── part2/
 │   └── memory_management/           # Rust, Java, C++ memory demos
-└── screenshots/                     # Program outputs
 ```
 
 ## 🚀 Running the Code
